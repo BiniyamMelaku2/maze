@@ -1,7 +1,10 @@
 # 3D Maze
 ### Creating a 3D maze with raycasting
 
-![textured_1](https://github.com/biniyammelaku2/maze/blob/master/screenshots/textured_1.png)
+![textured_1](https://github.com/BiniyamMelaku2/maze/blob/main/screenshots/textured_1.png)
+<img src="https://github.com/BiniyamMelaku2/maze/blob/main/screenshots/textured_1.png" border="0">
+
+
 -----
 
 ### Resources

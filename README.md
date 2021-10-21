@@ -34,7 +34,6 @@
 - `F` : toggle fullscreen
 - `ESC` : quit
 
-![textured_3](https://github.com/biniyammelaku2/maze/blob/master/screenshots/textured_3.png)
 
 #### Maps
 The maps are defined in 2D arrays in text files, which are parsed when passed as an argument to the maze executable. `0` represents open space, all other integers are walls.

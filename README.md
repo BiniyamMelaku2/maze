@@ -2,7 +2,6 @@
 ### Creating a 3D maze with raycasting
 
 ![textured_1](https://github.com/BiniyamMelaku2/maze/blob/main/screenshots/textured_1.png)
-<img src="https://github.com/BiniyamMelaku2/maze/blob/main/screenshots/textured_1.png" border="0">
 
 
 -----
@@ -81,3 +80,5 @@ In this part, you must draw the map on the window.
 * You’re free to draw the map where you want, with the color you want, …
 * You must provide a way to enable/disable it during the execution
 * Include the player’s line of sight in the map
+
+   <img src="https://github.com/BiniyamMelaku2/maze/blob/main/screenshots/mazeproject.gif" border="0">
